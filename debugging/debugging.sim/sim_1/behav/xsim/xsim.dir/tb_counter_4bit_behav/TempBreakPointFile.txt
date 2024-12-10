@@ -1,0 +1,2 @@
+Breakpoint File Version 1.0
+21 true /home/it/Chip_Design/CommonCore/DigitalDesign/Debugging Exam/debugging/debugging.srcs/sources_1/new/tb_counter_4bit.sv

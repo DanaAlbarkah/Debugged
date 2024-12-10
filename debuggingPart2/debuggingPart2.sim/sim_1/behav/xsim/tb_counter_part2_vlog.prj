@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../../../../../Downloads/cx-203-debugging-exam-main/4-bit-counter-II/counter_4bit.sv" \
+"../../../../debuggingPart2.srcs/sim_1/new/tb_counter_part2.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
